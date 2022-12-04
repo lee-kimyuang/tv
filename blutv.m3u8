@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:0,HABER GLOBAL
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0,TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b200000.m3u8
+#EXTINF:0,KANAL 24
+https://kanal24.blutv.com/blutv_kanal24_live/live_720p2000000kbps/index.m3u8
+#EXTINF:0,ULUSAL
+https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
+#EXTINF:0,HALK TV
+https://halktv.blutv.com/blutv_halktv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:0,KRT TV
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:0,TELE 1
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:0,TV 8,5
+https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
+#EXTINF:0,TEVE 2
+https://teve2.blutv.com/blutv_teve2_live/live.m3u8
+#EXTINF:0,360
+https://mn-nl.mncdn.com/blutv_360tv/live.m3u8
+#EXTINF:0,ULKE TV
+https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,BLOOMBERG HT
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
+#EXTINF:0,TRT TURK
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+#EXTINF:0,DIYANET TV
+https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
+#EXTINF:0,FLASH TV
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+#EXTINF:0,A2
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+#EXTINF:0,EKO TURK
+https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,A SPOR
+https://trkvz-beta.daioncdn.net/aspor/aspor.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765
+#EXTINF:0,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT SPOR YILDIZ
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8
+#EXTINF:0,SPORTS TV
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,TLC
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF:0,DMAX
+https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
+#EXTINF:0,TRT BELGESEL
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+#EXTINF:0,TRT COCUK
+https://mn-nl.mncdn.com/blutv_trtcocuk_2/trtcocuk.smil/playlist.m3u8
+#EXTINF:0,EURO D
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:0,SHOW TÜRK
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:0,EURO STAR
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
+#EXTINF:0,TV8 INT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
