@@ -2,7 +2,7 @@
 #EXTINF:0,TRT 1
 https://itv224226.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001247/manifest.mpd?AuthInfo=FupDZNY%2BHevVH7BNVwnVu1Y2shZ0gsc5S8C3r%2F13LpeVcWNuHvEaASG9826BH0%2B3CtJ18QFJr43%2FCto6umKFxA&virtualDomain=001.live_hls.zte.com&JITPDRMType=d8OYc3BYYanh5twB90T5rGPUF3wMSeCgLaObtd5yMpyupRo3YTygE622ELnB2YrzMQkguHG7leV%2F1xvo%2BgjQzA
 #EXTINF:0,KANAL D
-https://itv224226.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001208/manifest.mpd?AuthInfo=N04btYz%2Fk%2FDyPudD41xZz1Y2shZ0gsc5S8C3r%2F13Lpf2X1lwF7lgoK7MAU3Br2LvCtJ18QFJr43%2FCto6umKFxA&virtualDomain=001.live_hls.zte.com&JITPDRMType=aaymvboK900s1YjVWneQlwji%2BN71LVvFdqdEeGWY2GxaymLssH4NYavbRUfvBPJKgqnLQtvlhe6DB8ZbEWFtFQ
+https://itv224226.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001208/manifest.mpd?AuthInfo=N04btYz%2Fk%2FDyPudD41xZz1Y2shZ0gsc5S8C3r%2F13Lpf2X1lwF7lgoK7MAU3Br2LvCtJ18QFJr43%2FCto6umKFxA&virtualDomain=001.live_hls.zte.com&JITPDRMType=d8OYc3BYYanh5twB90T5rGPUF3wMSeCgLaObtd5yMpyupRo3YTygE622ELnB2YrzMQkguHG7leV%2F1xvo%2BgjQzA
 #EXTINF:0,STAR TV
 https://itv224227.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001226/manifest.mpd?AuthInfo=N04btYz%2Fk%2FDyPudD41xZz1Y2shZ0gsc5S8C3r%2F13LpcqXcYgZAWvVxsFlw3KWsVfCtJ18QFJr43%2FCto6umKFxA&virtualDomain=001.live_hls.zte.com&JITPDRMType=aaymvboK900s1YjVWneQlwji%2BN71LVvFdqdEeGWY2GxaymLssH4NYavbRUfvBPJKgqnLQtvlhe6DB8ZbEWFtFQ
 #EXTINF:0,ATV
@@ -12,7 +12,9 @@ https://itv224227.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001199/manifest.m
 #EXTINF:0,FOX TV
 https://itv224226.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001043/manifest.mpd?AuthInfo=N04btYz%2Fk%2FDyPudD41xZz1Y2shZ0gsc5S8C3r%2F13LpdmF2vKwvrFymC4y1Ha4NIJCtJ18QFJr43%2FCto6umKFxA&virtualDomain=001.live_hls.zte.com&JITPDRMType=aaymvboK900s1YjVWneQlwji%2BN71LVvFdqdEeGWY2GxaymLssH4NYavbRUfvBPJKgqnLQtvlhe6DB8ZbEWFtFQ
 #EXTINF:0,KANAL 7
-https://itv224226.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001207/manifest.mpd?AuthInfo=N04btYz%2Fk%2FDyPudD41xZz1Y2shZ0gsc5S8C3r%2F13LpfwA5nq0k60fpK6IFQ5a5cMCtJ18QFJr43%2FCto6umKFxA&virtualDomain=001.live_hls.zte.com&JITPDRMType=aaymvboK900s1YjVWneQlwji%2BN71LVvFdqdEeGWY2GxaymLssH4NYavbRUfvBPJKgqnLQtvlhe6DB8ZbEWFtFQ
+https://itv224226.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001207/manifest.mpd?AuthInfo=FupDZNY%2BHevVH7BNVwnVu1Y2shZ0gsc5S8C3r%2F13LpeoxunaUTWdn9nKMT9t1GTVCtJ18QFJr43%2FCto6umKFxA&virtualDomain=001.live_hls.zte.com&JITPDRMType=VWlH7LdrJhECYySZR8WGTBbbYjXyImWbxEkXp7SK6EqN0m%2FHNvdx9OdvI56J41TGo2LFHYnSCbJys9nIOFszaA
+
+https://itv224226.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001207/manifest.mpd?AuthInfo=N04btYz%2Fk%2FDyPudD41xZz1Y2shZ0gsc5S8C3r%2F13LpfwA5nq0k60fpK6IFQ5a5cMCtJ18QFJr43%2FCto6umKFxA&virtualDomain=001.live_hls.zte.com&JITPDRMType=VWlH7LdrJhECYySZR8WGTBbbYjXyImWbxEkXp7SK6EqN0m%2FHNvdx9OdvI56J41TGo2LFHYnSCbJys9nIOFszaA
 #EXTINF:0,BEYAZ TV
 https://itv224226.tmp.tivibu.com.tr:6630/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=N04btYz%2Fk%2FDyPudD41xZz1Y2shZ0gsc5S8C3r%2F13LpeUEj6OgrUr2emMyntyVjj%2FCtJ18QFJr43%2FCto6umKFxA%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=aaymvboK900s1YjVWneQlwji%2BN71LVvFdqdEeGWY2GxaymLssH4NYavbRUfvBPJKgqnLQtvlhe6DB8ZbEWFtFQ
 #EXTINF:0,TV 8
