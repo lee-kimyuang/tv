@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,TRT 1
-https://trt1.persona.video/master.m3u8?hls=1&dev=desktop,Chrome&ad_params=uuid%3D1b51af67-e025-43ea-8042-cdcd9811d93a
+https://trt1.persona.video/master.m3u8?hls=1
 #EXTINF:0,ATV
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
 #EXTINF:0,Show TV
@@ -15,7 +15,3 @@ http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
 #EXTINF:0,A Haber
 http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
-
-http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
-
-http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
