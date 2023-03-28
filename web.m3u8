@@ -8,7 +8,7 @@ http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
 #EXTINF:0,Star TV
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
 #EXTINF:0,Kanal 7
-http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0,TV 8
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 #EXTINF:0,TRT Haber
