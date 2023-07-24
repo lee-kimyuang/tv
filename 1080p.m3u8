@@ -14,7 +14,7 @@ https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/8.m
 #EXTINF:0,STAR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/14.m3u8
-#EXTINF:0,SHOWTV
+#EXTINF:0,SHOW TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/11.m3u8
 #EXTINF:0,FOX TV
@@ -47,10 +47,7 @@ https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/54.
 #EXTINF:0,A HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/51.m3u8
-#EXTINF:0,24 tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/75.m3u8
-#EXTINF:0,ULKE TV
+#EXTINF:0,24 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/75.m3u8
 #EXTINF:0,TEVE2
@@ -73,19 +70,16 @@ https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/85.
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/70.m3u8
 #EXTINF:0,A PARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/70.m3u8
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/53.m3u8
 #EXTINF:0,TRT TURK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/66.m3u8
 #EXTINF:0,TRT BELGESEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/68.m3u8
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/159.m3u8
 #EXTINF:0,TV 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/79.m3u8
-#EXTINF:0,Diyanet TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/279.m3u8
 #EXTINF:0,Çiftçi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/222.m3u8
@@ -104,3 +98,36 @@ https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/294
 #EXTINF:0,TRT SPOR ✫
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/301.m3u8
+#EXTINF:0,Power TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/121.m3u8
+#EXTINF:0,Power Turk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/122.m3u8
+#EXTINF:0,Kral POP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/124.m3u8
+#EXTINF:0,Dream Turk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/125.m3u8
+#EXTINF:0,Dream TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/126.m3u8
+#EXTINF:0,TRT Muzik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/127.m3u8
+#EXTINF:0,NR1 Turk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/129.m3u8
+#EXTINF:0,NR1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/130.m3u8
+#EXTINF:0,Power DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/736.m3u8
+#EXTINF:0,Power Turk AKUSTIK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/737.m3u8
+#EXTINF:0,FILODI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/1280.m3u8
