@@ -22,6 +22,9 @@ https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0,TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:0,TV 8.5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/25.m3u8
 #EXTINF:0,CNN TURK
 https://new.cache-stream.workers.dev/stream/UCV6zcRug6Hqp1UX_FdyUeBg/live.m3u8
 #EXTINF:0,NTV
