@@ -7,6 +7,9 @@ It supports Windows, Mac, Android.
 Add this address.
 https://github.com/exfair/tv/raw/main/tv.m3u8
 
+NEW Add for playback address via web browser.
+https://exfair.github.io/tv/web
+
 Ücretsiz Türkçe 1080p Canlı TV Yayını M3U8
 
 Bu liste, doğrudan oynatıcı için eklenmiştir.
@@ -14,3 +17,6 @@ Windows, Mac, Android'i destekler.
 
 Bu adresi ekleyin.
 https://github.com/exfair/tv/raw/main/tv.m3u8
+
+YENI Web tarayıcı üzerinden oynatma adresi için ekleyin.
+https://exfair.github.io/tv/web
