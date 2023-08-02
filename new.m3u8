@@ -4,9 +4,15 @@
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:0,TRT 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/40.m3u8
 #EXTINF:0,KANAL D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/17.m3u8
 #EXTINF:0,ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -16,57 +22,107 @@ https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/17.
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/8.m3u8
 #EXTINF:0,STAR TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/14.m3u8
 #EXTINF:0,SHOW TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/11.m3u8
 #EXTINF:0,KANAL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0,FOX TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/20.m3u8
 #EXTINF:0,BEYAZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/31.m3u8
 #EXTINF:0,TV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/23.m3u8
 #EXTINF:0,TV 8.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/25.m3u8
 #EXTINF:0,CNN TURK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/62.m3u8
 #EXTINF:0,NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/60.m3u8
 #EXTINF:0,TRT HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/65.m3u8
 #EXTINF:0,HABER TURK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/54.m3u8
 #EXTINF:0,A HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/51.m3u8
 #EXTINF:0,24 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/75.m3u8
 #EXTINF:0,ULKE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/57.m3u8
 #EXTINF:0,TVNET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/76.m3u8
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.trhttps://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/76.m3u8
 #EXTINF:0,TEVE2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/34.m3u8
 #EXTINF:0,TV 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/37.m3u8
 #EXTINF:0,HABER GLOBAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/72.m3u8
 #EXTINF:0,TGRT HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -88,15 +144,24 @@ https://new.cache-stream.workers.dev/stream/j6nk0Oc9-XQ/live.m3u8
 https://new.cache-stream.workers.dev/stream/2i8lfP9oqvk/live.m3u8
 #EXTINF:0,FLASH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/48.m3u8
 #EXTINF:0,TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://new.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 #EXTINF:0,Bloomberg HT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/58.m3u8
 #EXTINF:0,A PARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/53.m3u8
 #EXTINF:0,TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -106,21 +171,36 @@ https://tlc.blutv.com/blutv_tlc_live/live_720p2000000kbps/index.m3u8
 https://mn-nl.mncdn.com/blutv_dmax2/live_720p2000000kbps/index.m3u8
 #EXTINF:0,TRT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/39.m3u8
 #EXTINF:0,TRT TURK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/66.m3u8
 #EXTINF:0,TRT BELGESEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/159.m3u8
 #EXTINF:0,EKO TURK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0,TV 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/79.m3u8
 #EXTINF:0,SHOW MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/38.m3u8
 #EXTINF:0,Diyanet TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -145,73 +225,142 @@ https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/chunklist_b2064000.m3u8
 #EXTINF:0,SPORTS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/296.m3u8
 #EXTINF:0,GS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/297.m3u8
 #EXTINF:0,FB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/298.m3u8
 #EXTINF:0,TRT COCUK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/89.m3u8
 #EXTINF:0,Minika GO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/92.m3u8
 #EXTINF:0,Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/90.m3u8
 #EXTINF:0,Minika Çocuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/94.m3u8
 #EXTINF:0,Nick JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/91.m3u8
 #EXTINF:0,Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/97.m3u8
 #EXTINF:0,Cbeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/100.m3u8
 #EXTINF:0,Da Vinci Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/101.m3u8
 #EXTINF:0,DNickstoons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/103.m3u8
 #EXTINF:0,Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/99.m3u8
 #EXTINF:0,Power TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/121.m3u8
 #EXTINF:0,Power Turk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/122.m3u8
 #EXTINF:0,Kral POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://new.cache-stream.workers.dev/stream/GuFTuKoXepw/live.m3u8
 #EXTINF:0,Dream Turk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/125.m3u8
 #EXTINF:0,Dream TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/126.m3u8
 #EXTINF:0,TRT Muzik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/127.m3u8
 #EXTINF:0,NR1 Turk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/129.m3u8
 #EXTINF:0,NR1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/130.m3u8
 #EXTINF:0,Power DANCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/736.m3u8
 #EXTINF:0,Power Turk AKUSTIK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/737.m3u8
 #EXTINF:0,FILODI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/1280.m3u8
